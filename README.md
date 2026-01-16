@@ -1,6 +1,6 @@
 # 💄 Lúmina Beauty - Dashboard de Vendas
 
-![Logo Lúmina Beauty](https://seu-link-da-imagem-aqui.com/logo.png)
+![Logo Lúmina Beauty](logolumina.png)
 
 ## 📋 Sobre o Projeto
 Este projeto consiste na criação de um **Dashboard de Vendas** estratégico para a empresa fictícia de cosméticos **Lúmina Beauty**. O objetivo principal é transformar dados brutos de vendas em informações visuais claras, permitindo a análise de desempenho e a tomada de decisões baseadas em dados (Data-Driven).
